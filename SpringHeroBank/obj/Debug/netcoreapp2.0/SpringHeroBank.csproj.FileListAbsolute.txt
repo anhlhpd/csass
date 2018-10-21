@@ -1,0 +1,11 @@
+C:\Users\Phuong Anh\RiderProjects\SpringHeroBank\SpringHeroBank\obj\Debug\netcoreapp2.0\SpringHeroBank.csprojAssemblyReference.cache
+C:\Users\Phuong Anh\RiderProjects\SpringHeroBank\SpringHeroBank\obj\Debug\netcoreapp2.0\SpringHeroBank.csproj.CoreCompileInputs.cache
+C:\Users\Phuong Anh\RiderProjects\SpringHeroBank\SpringHeroBank\obj\Debug\netcoreapp2.0\SpringHeroBank.AssemblyInfoInputs.cache
+C:\Users\Phuong Anh\RiderProjects\SpringHeroBank\SpringHeroBank\obj\Debug\netcoreapp2.0\SpringHeroBank.AssemblyInfo.cs
+C:\Users\Phuong Anh\RiderProjects\SpringHeroBank\SpringHeroBank\bin\Debug\netcoreapp2.0\SpringHeroBank.deps.json
+C:\Users\Phuong Anh\RiderProjects\SpringHeroBank\SpringHeroBank\bin\Debug\netcoreapp2.0\SpringHeroBank.runtimeconfig.json
+C:\Users\Phuong Anh\RiderProjects\SpringHeroBank\SpringHeroBank\bin\Debug\netcoreapp2.0\SpringHeroBank.runtimeconfig.dev.json
+C:\Users\Phuong Anh\RiderProjects\SpringHeroBank\SpringHeroBank\bin\Debug\netcoreapp2.0\SpringHeroBank.dll
+C:\Users\Phuong Anh\RiderProjects\SpringHeroBank\SpringHeroBank\bin\Debug\netcoreapp2.0\SpringHeroBank.pdb
+C:\Users\Phuong Anh\RiderProjects\SpringHeroBank\SpringHeroBank\obj\Debug\netcoreapp2.0\SpringHeroBank.dll
+C:\Users\Phuong Anh\RiderProjects\SpringHeroBank\SpringHeroBank\obj\Debug\netcoreapp2.0\SpringHeroBank.pdb
